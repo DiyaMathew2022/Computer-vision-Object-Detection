@@ -7,3 +7,10 @@ Object Detection using transformers refers to the application of Transformer mod
 One example of using transformers for object detection is DETR (DEtection TRansformer), which replaces the traditional object detection pipeline, including region proposal and classification networks, with a single Transformer network. DETR and similar models learn to predict object categories and locations in an end-to-end manner.<br>
 
 Overall, the use of transformers in object detection offers a promising direction for further improving the accuracy and efficiency of object detection systems.<br>
+
+# DEtection TRansformer (DETR)<br>
+DETR (DEtection TRansformer) is a deep learning-based object detection model that uses the Transformer architecture for end-to-end object detection. DETR was introduced in a research paper by Facebook AI Research in 2020. It aims to simplify the object detection pipeline and reduce the dependence on hand-engineered components.<br>
+
+In DETR, a single Transformer network is used to predict object categories and locations in an image. The network takes an image as input and outputs a set of object queries, which are then matched with the corresponding bounding boxes to produce the final detection results. The Transformer architecture enables DETR to perform global reasoning and process information from all regions of an image, making it more robust to changes in scale and aspect ratio.<br>
+
+DETR has shown promising results on several benchmark datasets and has been widely adopted in the computer vision community. It is an interesting direction for further research and improvement of object detection systems.<br>
