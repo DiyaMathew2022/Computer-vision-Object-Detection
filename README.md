@@ -1,4 +1,4 @@
-# Computer-vision-Object-Detection<br>
+# Computer vision: Object Detection<br>
 Computer Vision Object Detection is the process of detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. This involves applying image processing and computer vision techniques to locate these objects in the image and draw a bounding box around them. Object Detection can be done using various techniques, including Deep Learning-based approaches such as YOLO, R-CNN, and RetinaNet, and traditional computer vision techniques such as HOG and Haar cascades.<br>
 
 # Object Detection using transformers <br>
