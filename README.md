@@ -17,7 +17,7 @@ DETR has shown promising results on several benchmark datasets and has been wide
 
 # The CPPE-5 dataset <br>
 The objective of the new, challenging dataset known as CPPE-5 (Medical Personal Protective Equipment) is to enable the investigation of subordinate categorization of medical personal protective equipments.<br>
-Data Fields<br>
+** Data Fields **<br>
 image: the image id<br>
 image: PIL.Image.Image object containing the image. Note that when accessing the image column: dataset[0]["image"] the image file is automatically decoded. Decoding of a large number of image files might take a significant amount of time. Thus it is important to first query the sample index before the "image" column, i.e. dataset[0]["image"] should always be preferred over dataset["image"][0]<br>
 width: the image width<br>
