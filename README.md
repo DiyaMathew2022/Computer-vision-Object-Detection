@@ -14,3 +14,5 @@ DETR (DEtection TRansformer) is a deep learning-based object detection model tha
 In DETR, a single Transformer network is used to predict object categories and locations in an image. The network takes an image as input and outputs a set of object queries, which are then matched with the corresponding bounding boxes to produce the final detection results. The Transformer architecture enables DETR to perform global reasoning and process information from all regions of an image, making it more robust to changes in scale and aspect ratio.<br>
 
 DETR has shown promising results on several benchmark datasets and has been widely adopted in the computer vision community. It is an interesting direction for further research and improvement of object detection systems.<br>
+
+# The CPPE-5 dataset <br>
