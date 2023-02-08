@@ -16,3 +16,10 @@ In DETR, a single Transformer network is used to predict object categories and l
 DETR has shown promising results on several benchmark datasets and has been widely adopted in the computer vision community. It is an interesting direction for further research and improvement of object detection systems.<br>
 
 # The CPPE-5 dataset <br>
+The objective of the new, challenging dataset known as CPPE-5 (Medical Personal Protective Equipment) is to enable the investigation of subordinate categorization of medical personal protective equipments.<br>
+# Object Detection Use Cases<br>
+## Object Tracking in Matches<br>
+## Object Counting<br>
+## Autonomous Driving<br>
+## Image Search<br>
+
