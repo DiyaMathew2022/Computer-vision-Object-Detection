@@ -18,8 +18,8 @@ DETR has shown promising results on several benchmark datasets and has been wide
 # The CPPE-5 dataset <br>
 The objective of the new, challenging dataset known as CPPE-5 (Medical Personal Protective Equipment) is to enable the investigation of subordinate categorization of medical personal protective equipments.<br>
 # Object Detection Use Cases<br>
-## Object Tracking in Matches<br>
-## Object Counting<br>
-## Autonomous Driving<br>
-## Image Search<br>
+1. Object Tracking in Matches<br>
+2. Object Counting<br>
+3. Autonomous Driving<br>
+4. Image Search<br>
 
